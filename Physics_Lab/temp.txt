@@ -1,0 +1,29 @@
+  
+  /*boolean done() {  
+    Vec2 pos = box2d.getBodyPixelCoord(body);
+    if (pos.y > height) {
+      killBody();
+      return true;
+    }
+    return false;
+  }*/
+
+
+    
+    /*body.setLinearVelocity(new Vec2(random(-5, 5), random(2, 5)));
+    body.setAngularVelocity(random(-5, 5));*/
+
+
+    /*Vec2[] vertices = new Vec2[4];
+    vertices[0] = box2d.vectorPixelsToWorld(new Vec2(-15, 25));
+    vertices[1] = box2d.vectorPixelsToWorld(new Vec2(15, 0));
+    vertices[2] = box2d.vectorPixelsToWorld(new Vec2(20, -15));
+    vertices[3] = box2d.vectorPixelsToWorld(new Vec2(-10, -10));*/
+
+  /*
+  for (int i = d.size()-1; i >= 0; i--) {
+    DynamicBody _d = d.get(i);
+    if (_d.done()) {
+      d.remove(i);
+    }
+  }*/
